@@ -8,7 +8,7 @@
     "tag": "EXM",
     "captain": "PLAYER1",
     "players": ["PLAYER1", "PLAYER2", "PLAYER3", "PLAYER4", "PLAYER5"],
-    "events": [
+    "actions": [
       {"type": "entrada", "player": "PLAYER5"},
       {"type": "saida", "player": "PLAYER3"},
       {"type": "substituicao", "out": "PLAYER3", "in": "PLAYER5"}
@@ -21,7 +21,7 @@
       "tag": "ESP",
       "captain": "xJMaRcox",
       "players": ["xJMaRcox", "AdriMau", "Perobande", "Perobinha", "Jinx-s2"],
-      "events": []
+      "actions": []
     },
     {
       "id": "TEAM_2",
@@ -29,7 +29,7 @@
       "tag": "PGN",
       "captain": "STRAT_FPS",
       "players": ["STRAT_FPS", "MESTRE-MCS", "Master_CTA", "AllbertWesker", "IIBLAST", "BLANKSZ1"],
-      "events": [
+      "actions": [
         {"type": "substituicao", "out": "BLANKSZ1", "in": "Master_CTA"}
       ]
     },
@@ -39,7 +39,7 @@
       "tag": "PYW",
       "captain": "TEXAS3006",
       "players": ["TEXAS3006", "XxWarlockLFxX", "Lukyne_marth3", "JuizoFinaI", "S33NT7"],
-      "events": [
+      "actions": [
         {"type": "entrada", "player": "JuizoFinaI"},
         {"type": "entrada", "player": "S33NT7"}
       ]
@@ -50,7 +50,7 @@
       "tag": "SHG",
       "captain": "M4KTu1",
       "players": ["M4KTu1", "playerVNC", "xSINISTRO", "Viniciusribeiro", "DanyloFLY"],
-      "events": []
+      "actions": []
     },
     {
       "id": "TEAM_5",
@@ -58,7 +58,7 @@
       "tag": "XUX",
       "captain": "koszz",
       "players": ["koszz", "vim_do_lite", "llLordSparkll", "Oboneco", "Hugo197"],
-      "events": []
+      "actions": []
     },
     {
       "id": "TEAM_6",
@@ -66,7 +66,7 @@
       "tag": "CAPI",
       "captain": "CAPIVARA-CALVA",
       "players": ["CAPIVARA-CALVA", "Racha_Cucaa", "Stegen3530", "Reczigel"],
-      "events": []
+      "actions": []
     },
     {
       "id": "TEAM_7",
@@ -74,7 +74,7 @@
       "tag": "UDA",
       "captain": "MAGO12K",
       "players": ["MAGO12K", "M4T4_BOI", "Ibuprofeno_800mg", "Ypnus"],
-      "events": []
+      "actions": []
     },
     {
       "id": "TEAM_8",
@@ -82,7 +82,7 @@
       "tag": "ZBH",
       "captain": "AnDreviZ",
       "players": ["AnDreviZ", "Spawnsbg", "PrivacKadall", "nAsty-", "WF_PROZIN", "ET_BRISADO"],
-      "events": [
+      "actions": [
         {"type": "substituicao", "out": "ET_BRISADO", "in": "nAsty-"}
       ]
     },
@@ -92,7 +92,7 @@
       "tag": "ANTA",
       "captain": "0_justiceiro",
       "players": ["0_justiceiro", "SargentoPE", "Anta_Alex", "KaduzaoFPS", "PIRATA_FPS"],
-      "events": []
+      "actions": []
     },
     {
       "id": "TEAM_10",
@@ -100,7 +100,7 @@
       "tag": "EMDN",
       "captain": "The-BiIL",
       "players": ["The-BiIL", "El_gasolino", "LuckLose", "DEXXX777", "MatheusCenorao"],
-      "events": []
+      "actions": []
     },
     {
       "id": "TEAM_11",
@@ -108,7 +108,7 @@
       "tag": "TGH",
       "captain": "BielCalvo00",
       "players": ["BielCalvo00", "LaygO_0", "decops12", "SAMURUCUCA", "sevenmaalkkj"],
-      "events": []
+      "actions": []
     }
   ]
 }
