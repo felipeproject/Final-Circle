@@ -21,7 +21,9 @@
       "tag": "ESP",
       "captain": "xJMaRcox",
       "players": ["xJMaRcox", "AdriMau", "Perobande", "Perobinha", "Jinx-s2"],
-      "actions": []
+      "actions": [
+      {"type": "entrada", "player": "Jinx-s2"}
+      ]
     },
     {
       "id": "TEAM_2",
