@@ -1,0 +1,86 @@
+{
+  "campeonato": {
+    "nome": "Campeonato Rusha Drop",
+    "descricao": "Evento de PUBG de 4 dias.",
+    "banner": "rusha_drop/banner.png",
+    "modo": "FPP",
+    "tipo": "squad",
+    "status": "em andamento",
+    "caminho_base": "rusha_drop/partidas/jogo_{}.csv",
+    "horario": "21:00",
+    "datas": [
+      "16/08/2025",
+      "23/08/2025",
+      "30/08/2025",
+      "06/09/2025"
+    ],
+    "jogos_por_dia": {
+      "1": [
+        {
+          "jogo": 1,
+          "mapa": "Erangel"
+        },
+        {
+          "jogo": 2,
+          "mapa": "Taego"
+        },
+        {
+          "jogo": 3,
+          "mapa": "Miramar"
+        }
+      ],
+      "2": [
+        {
+          "jogo": 4,
+          "mapa": "Vikendi"
+        },
+        {
+          "jogo": 5,
+          "mapa": "Erangel"
+        },
+        {
+          "jogo": 6,
+          "mapa": "Deston"
+        }
+      ],
+      "3": [
+        {
+          "jogo": 7,
+          "mapa": "Sanhok"
+        },
+        {
+          "jogo": 8,
+          "mapa": "Rondo"
+        },
+        {
+          "jogo": 9,
+          "mapa": "Erangel"
+        }
+      ],
+      "4": [
+        {
+          "jogo": 10,
+          "mapa": "Erangel"
+        },
+        {
+          "jogo": 11,
+          "mapa": "Vikendi"
+        },
+        {
+          "jogo": 12,
+          "mapa": "Miramar"
+        }
+      ]
+    },
+    "times": [
+      "ESPARTANOS",
+      "PINGREEN",
+      "PINGYELLOW",
+      "SHIROGOHAN",
+      "XUXA",
+      "CAPIVARAS",
+      "UDA",
+      "Z BLACK HOLE"
+    ]
+  }
+}
