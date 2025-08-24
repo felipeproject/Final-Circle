@@ -1,0 +1,102 @@
+[
+  {
+    "logoPattern": "https://raw.githubusercontent.com/felipeproject/Final-Circle/main/data/images/times/{TAG}.png"
+  },
+  {
+    "id": "TEAM_3",
+    "name": "PINGYELLOW",
+    "tag": "PYW",
+    "captain": "TEXAS3006",
+    "players": ["TEXAS3006", "XxWarlockLFxX", "Lukyne_marth3", "JuizoFinaI", "S33NT7"],
+    "events": [
+      {"type": "entrada", "player": "S33NT7"},
+      {"type": "saida", "player": "JuizoFinaI"},
+      {"type": "substituicao", "out": "JuizoFinaI", "in": "S33NT7"},
+      {"type": "penalidade", "player": "XxWarlockLFxX", "reason": "banimento temporário"}
+    ]
+  },
+  {
+    "id": "TEAM_1",
+    "name": "ESPARTANOS",
+    "tag": "ESP",
+    "captain": "xJMaRcox",
+    "players": ["xJMaRcox", "AdriMau", "Perobande", "Perobinha", "Jinx-s2"],
+    "events": []
+  },
+  {
+    "id": "TEAM_2",
+    "name": "PINGREEN",
+    "tag": "PGN",
+    "captain": "STRAT_FPS",
+    "players": ["STRAT_FPS", "MESTRE-MCS", "Master_CTA", "AllbertWesker", "IIBLAST"],
+    "events": [
+      {"type": "substituicao", "out": "BLANKSZ1", "in": "Master_CTA"}
+    ]
+  },
+  {
+    "id": "TEAM_4",
+    "name": "SHIROGOHAN",
+    "tag": "SHG",
+    "captain": "M4KTu1",
+    "players": ["M4KTu1", "playerVNC", "xSINISTRO", "Viniciusribeiro", "DanyloFLY"],
+    "events": []
+  },
+  {
+    "id": "TEAM_5",
+    "name": "XUXA",
+    "tag": "XUX",
+    "captain": "koszz",
+    "players": ["koszz", "vim_do_lite", "llLordSparkll", "Oboneco", "Hugo197"],
+    "events": []
+  },
+  {
+    "id": "TEAM_6",
+    "name": "CAPIVARAS",
+    "tag": "CAPI",
+    "captain": "CAPIVARA-CALVA",
+    "players": ["CAPIVARA-CALVA", "Racha_Cucaa", "Stegen3530", "Reczigel"],
+    "events": []
+  },
+  {
+    "id": "TEAM_7",
+    "name": "UDA",
+    "tag": "UDA",
+    "captain": "MAGO12K",
+    "players": ["MAGO12K", "M4T4_BOI", "Ibuprofeno_800mg", "Ypnus"],
+    "events": []
+  },
+  {
+    "id": "TEAM_8",
+    "name": "Z BLACK HOLE",
+    "tag": "ZBH",
+    "captain": "AnDreviZ",
+    "players": ["AnDreviZ", "Spawnsbg", "PrivacKadall", "nAsty-", "WF_PROZIN"],
+    "events": [
+      {"type": "substituicao", "out": "ET_BRISADO", "in": "nAsty-"}
+    ]
+  },
+  {
+    "id": "TEAM_9",
+    "name": "ANTAS",
+    "tag": "ANTA",
+    "captain": "0_justiceiro",
+    "players": ["0_justiceiro", "SargentoPE", "Anta_Alex", "KaduzaoFPS", "PIRATA_FPS"],
+    "events": []
+  },
+  {
+    "id": "TEAM_10",
+    "name": "EL MATADORES DE NOOB",
+    "tag": "EMDN",
+    "captain": "The-BiIL",
+    "players": ["The-BiIL", "El_gasolino", "LuckLose", "DEXXX777", "MatheusCenorao"],
+    "events": []
+  },
+  {
+    "id": "TEAM_11",
+    "name": "THE GHOSTS",
+    "tag": "TGH",
+    "captain": "BielCalvo00",
+    "players": ["BielCalvo00", "LaygO_0", "decops12", "SAMURUCUCA", "sevenmaalkkj"],
+    "events": []
+  }
+]
