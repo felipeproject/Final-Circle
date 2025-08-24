@@ -33,16 +33,18 @@
         {"type": "substituicao", "out": "BLANKSZ1", "in": "Master_CTA"}
       ]
     },
-    {
-      "id": "TEAM_3",
-      "name": "PINGYELLOW",
-      "tag": "PYW",
-      "captain": "TEXAS3006",
-      "players": ["TEXAS3006", "XxWarlockLFxX", "Lukyne_marth3", "JuizoFinaI", "S33NT7"],
-      "events": [
-        {"type": "substituicao", "out": "JuizoFinaI", "in": "S33NT7"}
-      ]
-    },
+{
+  "id": "TEAM_3",
+  "name": "PINGYELLOW",
+  "tag": "PYW",
+  "captain": "TEXAS3006",
+  "players": ["TEXAS3006", "XxWarlockLFxX", "Lukyne_marth3", "JuizoFinaI", "S33NT7"],
+  "events": [
+    { "type": "entrada", "player": "JuizoFinaI" },
+    { "type": "entrada", "player": "S33NT7" }
+  ]
+}
+
     {
       "id": "TEAM_4",
       "name": "SHIROGOHAN",
@@ -111,3 +113,4 @@
     }
   ]
 }
+
