@@ -6,81 +6,31 @@
     "modo": "FPP",
     "tipo": "squad",
     "status": "em andamento",
-    "caminho_base": "rusha_drop/partidas/jogo_{}.csv",
+    "caminho_base": "rusha_drop/partidas/",
     "horario": "21:00",
-    "datas": [
-      "16/08/2025",
-      "23/08/2025",
-      "30/08/2025",
-      "06/09/2025"
-    ],
+    "datas": ["16/08/2025","23/08/2025","30/08/2025","06/09/2025"],
     "jogos_por_dia": {
       "1": [
-        {
-          "jogo": 1,
-          "mapa": "Erangel"
-        },
-        {
-          "jogo": 2,
-          "mapa": "Taego"
-        },
-        {
-          "jogo": 3,
-          "mapa": "Miramar"
-        }
+        {"jogo":1,"mapa":"Erangel","arquivo":"erangel-normal-squad-fpp-2025-08-17t001905+0000.csv"},
+        {"jogo":2,"mapa":"Taego","arquivo":"taego-normal-squad-fpp-2025-08-17t005336+0000.csv"},
+        {"jogo":3,"mapa":"Miramar","arquivo":"miramar-normal-squad-fpp-2025-08-17t012714+0000.csv"}
       ],
       "2": [
-        {
-          "jogo": 4,
-          "mapa": "Vikendi"
-        },
-        {
-          "jogo": 5,
-          "mapa": "Erangel"
-        },
-        {
-          "jogo": 6,
-          "mapa": "Deston"
-        }
+        {"jogo":4,"mapa":"Vikendi","arquivo":"vikendi-normal-squad-fpp-2025-08-24t000857+0000.csv"},
+        {"jogo":5,"mapa":"Erangel","arquivo":"erangel-normal-squad-fpp-2025-08-24t005408+0000.csv"},
+        {"jogo":6,"mapa":"Deston","arquivo":"deston-normal-squad-fpp-2025-08-24t013315+0000.csv"}
       ],
       "3": [
-        {
-          "jogo": 7,
-          "mapa": "Sanhok"
-        },
-        {
-          "jogo": 8,
-          "mapa": "Rondo"
-        },
-        {
-          "jogo": 9,
-          "mapa": "Erangel"
-        }
+        {"jogo":7,"mapa":"Sanhok","arquivo":""},
+        {"jogo":8,"mapa":"Rondo","arquivo":""},
+        {"jogo":9,"mapa":"Erangel","arquivo":""}
       ],
       "4": [
-        {
-          "jogo": 10,
-          "mapa": "Erangel"
-        },
-        {
-          "jogo": 11,
-          "mapa": "Vikendi"
-        },
-        {
-          "jogo": 12,
-          "mapa": "Miramar"
-        }
+        {"jogo":10,"mapa":"Erangel","arquivo":""},
+        {"jogo":11,"mapa":"Vikendi","arquivo":""},
+        {"jogo":12,"mapa":"Miramar","arquivo":""}
       ]
     },
-    "times": [
-      "ESPARTANOS",
-      "PINGREEN",
-      "PINGYELLOW",
-      "SHIROGOHAN",
-      "XUXA",
-      "CAPIVARAS",
-      "UDA",
-      "Z BLACK HOLE"
-    ]
+    "times": ["ESPARTANOS","PINGREEN","PINGYELLOW","SHIROGOHAN","XUXA","CAPIVARAS","UDA","Z BLACK HOLE"]
   }
 }
