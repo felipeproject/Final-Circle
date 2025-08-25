@@ -8,29 +8,94 @@
     "status": "em andamento",
     "url": "https://raw.githubusercontent.com/felipeproject/Final-Circle/refs/heads/main/data/eventos/rusha_drop/{}",
     "horario": "21:00",
-    "datas": ["16/08/2025","23/08/2025","30/08/2025","06/09/2025"],
+    "datas": [
+      "16/08/2025",
+      "23/08/2025",
+      "30/08/2025",
+      "06/09/2025"
+    ],
     "jogos_por_dia": {
       "1": [
-        {"jogo":1,"mapa":"Erangel","file":"erangel-normal-squad-fpp-2025-08-17t001905+0000.csv"},
-        {"jogo":2,"mapa":"Taego","file":"taego-normal-squad-fpp-2025-08-17t005336+0000.csv"},
-        {"jogo":3,"mapa":"Miramar","file":"miramar-normal-squad-fpp-2025-08-17t012714+0000.csv"}
+        {
+          "jogo": 1,
+          "mapa": "Erangel",
+          "file": "erangel-normal-squad-fpp-2025-08-17t001905+0000.csv"
+        },
+        {
+          "jogo": 2,
+          "mapa": "Taego",
+          "file": "taego-normal-squad-fpp-2025-08-17t005336+0000.csv"
+        },
+        {
+          "jogo": 3,
+          "mapa": "Miramar",
+          "file": "miramar-normal-squad-fpp-2025-08-17t012714+0000.csv"
+        }
       ],
       "2": [
-        {"jogo":4,"mapa":"Vikendi","file":"vikendi-normal-squad-fpp-2025-08-24t000857+0000.csv"},
-        {"jogo":5,"mapa":"Erangel","file":"erangel-normal-squad-fpp-2025-08-24t005408+0000.csv"},
-        {"jogo":6,"mapa":"Deston","file":"deston-normal-squad-fpp-2025-08-24t013315+0000.csv"}
+        {
+          "jogo": 4,
+          "mapa": "Vikendi",
+          "file": "vikendi-normal-squad-fpp-2025-08-24t000857+0000.csv"
+        },
+        {
+          "jogo": 5,
+          "mapa": "Erangel",
+          "file": "erangel-normal-squad-fpp-2025-08-24t005408+0000.csv"
+        },
+        {
+          "jogo": 6,
+          "mapa": "Deston",
+          "file": "deston-normal-squad-fpp-2025-08-24t013315+0000.csv"
+        }
       ],
       "3": [
-        {"jogo":7,"mapa":"Sanhok","file":""},
-        {"jogo":8,"mapa":"Rondo","file":""},
-        {"jogo":9,"mapa":"Erangel","file":""}
+        {
+          "jogo": 7,
+          "mapa": "Sanhok",
+          "file": ""
+        },
+        {
+          "jogo": 8,
+          "mapa": "Rondo",
+          "file": ""
+        },
+        {
+          "jogo": 9,
+          "mapa": "Erangel",
+          "file": ""
+        }
       ],
       "4": [
-        {"jogo":10,"mapa":"Erangel","file":""},
-        {"jogo":11,"mapa":"Vikendi","file":""},
-        {"jogo":12,"mapa":"Miramar","file":""}
+        {
+          "jogo": 10,
+          "mapa": "Erangel",
+          "file": ""
+        },
+        {
+          "jogo": 11,
+          "mapa": "Vikendi",
+          "file": ""
+        },
+        {
+          "jogo": 12,
+          "mapa": "Miramar",
+          "file": ""
+        }
       ]
     },
-    "times": ["ESPARTANOS","PINGREEN","PINGYELLOW","SHIROGOHAN","XUXA","CAPIVARAS","UDA","Z BLACK HOLE"]
+    "times": [
+      "ESPARTANOS",
+      "PINGREEN",
+      "PINGYELLOW",
+      "SHIROGOHAN",
+      "XUXA",
+      "CAPIVARAS",
+      "UDA",
+      "Z BLACK HOLE",
+      "ANTAS",
+      "EL MATADORES DE NOOB",
+      "THE GHOSTS"
+    ]
   }
 }
