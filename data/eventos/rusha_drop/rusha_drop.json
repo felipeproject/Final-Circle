@@ -17,70 +17,70 @@
     "jogos_por_dia": {
       "1": [
         {
-          "id": 1,
+          "jogo": 1,
           "mapa": "Erangel",
           "file": "erangel-normal-squad-fpp-2025-08-17t001905+0000.csv"
         },
         {
-          "id": 2,
+          "jogo": 2,
           "mapa": "Taego",
           "file": "taego-normal-squad-fpp-2025-08-17t005336+0000.csv"
         },
         {
-          "id": 3,
+          "jogo": 3,
           "mapa": "Miramar",
           "file": "miramar-normal-squad-fpp-2025-08-17t012714+0000.csv"
         }
       ],
       "2": [
         {
-          "id": 4,
+          "jogo": 4,
           "mapa": "Vikendi",
           "file": "vikendi-normal-squad-fpp-2025-08-24t000857+0000.csv"
         },
         {
-          "id": 5,
+          "jogo": 5,
           "mapa": "Erangel",
           "file": "erangel-normal-squad-fpp-2025-08-24t005408+0000.csv"
         },
         {
-          "id": 6,
+          "jogo": 6,
           "mapa": "Deston",
           "file": "deston-normal-squad-fpp-2025-08-24t013315+0000.csv"
         }
       ],
       "3": [
         {
-          "id": 7,
+          "jogo": 7,
           "mapa": "Sanhok",
-          "file": null
+          "file": ""
         },
         {
-          "id": 8,
+          "jogo": 8,
           "mapa": "Rondo",
-          "file": null
+          "file": ""
         },
         {
-          "id": 9,
+          "jogo": 9,
           "mapa": "Erangel",
-          "file": null
+          "file": ""
         }
       ],
       "4": [
         {
-          "id": 10,
+          "jogo": 10,
           "mapa": "Erangel",
-          "file": null
+          "file": ""
         },
         {
-          "id": 11,
+          "jogo": 11,
           "mapa": "Vikendi",
-          "file": null
+          "file": ""
         },
         {
-          "id": 12,
+          "jogo": 12,
           "mapa": "Miramar",
-          "file": null
+          "file": ""
         }
       ]
     },
