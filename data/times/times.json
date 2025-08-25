@@ -94,7 +94,9 @@
       "tag": "ANTA",
       "captain": "0_justiceiro",
       "players": ["0_justiceiro", "SargentoPE", "Anta_Alex", "KaduzaoFPS", "PIRATA_FPS"],
-      "actions": []
+      "actions": [
+       {"type": "substituicao", "out": "Anta_Alex", "in": " Alex-Lives"}
+      ]
     },
     {
       "id": "TEAM_10",
