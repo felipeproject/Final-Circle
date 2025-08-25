@@ -65,7 +65,7 @@
     {
       "id": "TEAM_6",
       "name": "CAPIVARAS",
-      "tag": "CAPI",
+      "tag": "CAP",
       "captain": "CAPIVARA-CALVA",
       "players": ["CAPIVARA-CALVA", "Racha_Cucaa", "Stegen3530", "Reczigel"],
       "actions": []
@@ -90,8 +90,8 @@
     },
     {
       "id": "TEAM_9",
-      "name": "ANTAS",
-      "tag": "ANTA",
+      "name": "ANTA",
+      "tag": "ANT",
       "captain": "0_justiceiro",
       "players": ["0_justiceiro", "SargentoPE", "Alex-Lives", "KaduzaoFPS", "PIRATA_FPS", "Anta_Alex"],
       "actions": [
@@ -101,7 +101,7 @@
     {
       "id": "TEAM_10",
       "name": "EL MATADORES DE NOOB",
-      "tag": "EMDN",
+      "tag": "EMD",
       "captain": "The-BiIL",
       "players": ["The-BiIL", "El_gasolino", "LuckLose", "DEXXX777", "MatheusCenorao"],
       "actions": []
