@@ -6,7 +6,7 @@
     "modo": "FPP",
     "tipo": "squad",
     "status": "em andamento",
-    "url": "https://raw.githubusercontent.com/felipeproject/Final-Circle/refs/heads/main/data/eventos/rusha_drop/{}",
+    "url_template": "https://raw.githubusercontent.com/felipeproject/Final-Circle/refs/heads/main/data/eventos/rusha_drop/{}",
     "horario": "21:00",
     "datas": [
       "16/08/2025",
@@ -17,70 +17,70 @@
     "jogos_por_dia": {
       "1": [
         {
-          "jogo": 1,
+          "id": 1,
           "mapa": "Erangel",
           "file": "erangel-normal-squad-fpp-2025-08-17t001905+0000.csv"
         },
         {
-          "jogo": 2,
+          "id": 2,
           "mapa": "Taego",
           "file": "taego-normal-squad-fpp-2025-08-17t005336+0000.csv"
         },
         {
-          "jogo": 3,
+          "id": 3,
           "mapa": "Miramar",
           "file": "miramar-normal-squad-fpp-2025-08-17t012714+0000.csv"
         }
       ],
       "2": [
         {
-          "jogo": 4,
+          "id": 4,
           "mapa": "Vikendi",
           "file": "vikendi-normal-squad-fpp-2025-08-24t000857+0000.csv"
         },
         {
-          "jogo": 5,
+          "id": 5,
           "mapa": "Erangel",
           "file": "erangel-normal-squad-fpp-2025-08-24t005408+0000.csv"
         },
         {
-          "jogo": 6,
+          "id": 6,
           "mapa": "Deston",
           "file": "deston-normal-squad-fpp-2025-08-24t013315+0000.csv"
         }
       ],
       "3": [
         {
-          "jogo": 7,
+          "id": 7,
           "mapa": "Sanhok",
-          "file": ""
+          "file": null
         },
         {
-          "jogo": 8,
+          "id": 8,
           "mapa": "Rondo",
-          "file": ""
+          "file": null
         },
         {
-          "jogo": 9,
+          "id": 9,
           "mapa": "Erangel",
-          "file": ""
+          "file": null
         }
       ],
       "4": [
         {
-          "jogo": 10,
+          "id": 10,
           "mapa": "Erangel",
-          "file": ""
+          "file": null
         },
         {
-          "jogo": 11,
+          "id": 11,
           "mapa": "Vikendi",
-          "file": ""
+          "file": null
         },
         {
-          "jogo": 12,
+          "id": 12,
           "mapa": "Miramar",
-          "file": ""
+          "file": null
         }
       ]
     },
