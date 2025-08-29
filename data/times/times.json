@@ -51,7 +51,7 @@
       "name": "SHIROGOHAN",
       "tag": "SHG",
       "captain": "M4KTu1",
-      "players": ["M4KTu1", "xJAHBLEESx", "xSINISTRO", "Viniciusribeiro", "DanyloFLY"],
+      "players": ["M4KTu1", "playerVNC", "xJAHBLEESx", "xSINISTRO", "Viniciusribeiro", "DanyloFLY"],
       "actions": [
         {"type": "substituicao", "out": "playerVNC", "in": "xJAHBLEESx"}
       ]
