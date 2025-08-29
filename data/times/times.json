@@ -22,7 +22,7 @@
       "captain": "xJMaRcox",
       "players": ["xJMaRcox", "AdriMau", "Perobande", "Perobinha", "Jinx-s2"],
       "actions": [
-      {"type": "entrada", "player": "Jinx-s2"}
+        {"type": "entrada", "player": "Jinx-s2"}
       ]
     },
     {
@@ -51,8 +51,10 @@
       "name": "SHIROGOHAN",
       "tag": "SHG",
       "captain": "M4KTu1",
-      "players": ["M4KTu1", "playerVNC", "xSINISTRO", "Viniciusribeiro", "DanyloFLY"],
-      "actions": []
+      "players": ["M4KTu1", "xJAHBLEESx", "xSINISTRO", "Viniciusribeiro", "DanyloFLY"],
+      "actions": [
+        {"type": "substituicao", "out": "playerVNC", "in": "xJAHBLEESx"}
+      ]
     },
     {
       "id": "TEAM_5",
@@ -95,7 +97,7 @@
       "captain": "0_justiceiro",
       "players": ["0_justiceiro", "SargentoPE", "Alex-Lives", "KaduzaoFPS", "PIRATA_FPS", "Anta_Alex"],
       "actions": [
-       {"type": "substituicao", "out": "Anta_Alex", "in": "Alex-Lives"}
+        {"type": "substituicao", "out": "Anta_Alex", "in": "Alex-Lives"}
       ]
     },
     {
