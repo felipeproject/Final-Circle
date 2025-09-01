@@ -1,4 +1,3 @@
-// data/teams.json
 {
   "header": {
     "logoPattern": "https://raw.githubusercontent.com/felipeproject/Final-Circle/main/data/images/times/{TAG}.png"
@@ -96,8 +95,8 @@
       "captain": "PrivacKadall",
       "players": ["Spawnsbg", "PrivacKadall", "nAsty-", "WF_PROZIN", "nAsty-"],
       "actions": [
-        {"type": "saida", "player": "AnDreviZ"},
-        {"type": "substituicao", "out": "ET_BRISADO", "in": "nAsty-"}
+        {"type": "substituicao", "out": "ET_BRISADO", "in": "nAsty-"},
+        {"type": "saida", "player": "AnDreviZ"}
       ],
       "eventos_ativos": ["rusha_drop"]
     },
