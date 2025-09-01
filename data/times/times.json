@@ -12,7 +12,8 @@
       {"type": "entrada", "player": "PLAYER5"},
       {"type": "saida", "player": "PLAYER3"},
       {"type": "substituicao", "out": "PLAYER3", "in": "PLAYER5"}
-    ]
+    ],
+    "eventos_ativos": ["rusha_drop"]
   },
   "teams": [
     {
@@ -23,7 +24,8 @@
       "players": ["xJMaRcox", "AdriMau", "Perobande", "Perobinha", "Jinx-s2"],
       "actions": [
         {"type": "entrada", "player": "Jinx-s2"}
-      ]
+      ],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_2",
@@ -33,7 +35,8 @@
       "players": ["STRAT_FPS", "MESTRE-MCS", "Master_CTA", "AllbertWesker", "IIBLAST", "Master_CTA", "BLANKSZ1"],
       "actions": [
         {"type": "substituicao", "out": "BLANKSZ1", "in": "Master_CTA"}
-      ]
+      ],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_3",
@@ -44,7 +47,8 @@
       "actions": [
         {"type": "entrada", "player": "JuizoFinaI"},
         {"type": "entrada", "player": "S33NT7"}
-      ]
+      ],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_4",
@@ -54,7 +58,8 @@
       "players": ["M4KTu1", "xSINISTRO", "Viniciusribeiro", "DanyloFLY", "xJAHBLEESx", "playerVNC"],
       "actions": [
         {"type": "substituicao", "out": "playerVNC", "in": "xJAHBLEESx"}
-      ]
+      ],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_5",
@@ -62,7 +67,8 @@
       "tag": "XUX",
       "captain": "koszz",
       "players": ["koszz", "vim_do_lite", "llLordSparkll", "Oboneco", "Hugo197"],
-      "actions": []
+      "actions": [],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_6",
@@ -70,7 +76,8 @@
       "tag": "CAP",
       "captain": "CAPIVARA-CALVA",
       "players": ["CAPIVARA-CALVA", "Racha_Cucaa", "Stegen3530", "Reczigel"],
-      "actions": []
+      "actions": [],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_7",
@@ -78,7 +85,8 @@
       "tag": "UDA",
       "captain": "MAGO12K",
       "players": ["MAGO12K", "M4T4_BOI", "Ibuprofeno_800mg", "Ypnus"],
-      "actions": []
+      "actions": [],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_8",
@@ -88,7 +96,8 @@
       "players": ["AnDreviZ", "Spawnsbg", "PrivacKadall", "nAsty-", "WF_PROZIN", "nAsty-", "ET_BRISADO"],
       "actions": [
         {"type": "substituicao", "out": "ET_BRISADO", "in": "nAsty-"}
-      ]
+      ],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_9",
@@ -98,7 +107,8 @@
       "players": ["0_justiceiro", "SargentoPE", "Alex-Lives", "KaduzaoFPS", "PIRATA_FPS", "Anta_Alex"],
       "actions": [
         {"type": "substituicao", "out": "Anta_Alex", "in": "Alex-Lives"}
-      ]
+      ],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_10",
@@ -106,7 +116,8 @@
       "tag": "EMD",
       "captain": "The-BiIL",
       "players": ["The-BiIL", "El_gasolino", "LuckLose", "DEXXX777", "MatheusCenorao"],
-      "actions": []
+      "actions": [],
+      "eventos_ativos": ["rusha_drop"]
     },
     {
       "id": "TEAM_11",
@@ -114,7 +125,8 @@
       "tag": "TGH",
       "captain": "BielCalvo00",
       "players": ["BielCalvo00", "LaygO_0", "decops12", "SAMURUCUCA", "sevenmaalkkj"],
-      "actions": []
+      "actions": [],
+      "eventos_ativos": ["rusha_drop"]
     }
   ]
 }
