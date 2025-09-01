@@ -1,6 +1,6 @@
 {
     "campeonato": {
-        "nome": "Campeonato Rusha Drop",
+        "nome": "Rusha Drop - FPP - SQUADS",
         "descricao": "Evento de PUBG de 4 dias.",
         "banner": "rusha_drop/banner.png",
         "modo": "FPP",
@@ -98,4 +98,5 @@
             "THE GHOSTS"
         ]
     }
+
 }
