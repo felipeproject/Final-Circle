@@ -93,7 +93,7 @@
       "name": "Z BLACK HOLE",
       "tag": "ZBH",
       "captain": "PrivacKadall",
-      "players": ["Spawnsbg", "PrivacKadall", "nAsty-", "WF_PROZIN", "nAsty-"],
+      "players": ["Spawnsbg", "PrivacKadall", "nAsty-", "WF_PROZIN", "ET_BRISADO", "AnDreviZ"],
       "actions": [
         {"type": "substituicao", "out": "ET_BRISADO", "in": "nAsty-"},
         {"type": "saida", "player": "AnDreviZ"}
