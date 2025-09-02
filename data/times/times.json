@@ -32,7 +32,7 @@
       "name": "PINGREEN",
       "tag": "PGN",
       "captain": "STRAT_FPS",
-      "players": ["STRAT_FPS", "MESTRE-MCS", "Master_CTA", "AllbertWesker", "IIBLAST", "Master_CTA", "BLANKSZ1"],
+      "players": ["STRAT_FPS", "MESTRE-MCS", "Master_CTA", "AllbertWesker", "IIBLAST", "BLANKSZ1"],
       "actions": [
         {"type": "substituicao", "out": "BLANKSZ1", "in": "Master_CTA"}
       ],
